@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KartvelBI
 - 👀 I’m interested in Powerbi & DAX Language
-- 🌱 I’m currently learning DAX
+- 🌱 I’m currently learning DAX and Python
 
 
 <!---
